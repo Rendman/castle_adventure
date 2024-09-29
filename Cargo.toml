@@ -1,0 +1,9 @@
+[package]
+name = "castleadventure"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13"
+bevy_ascii_terminal = "0.15"
+serde_json = "1.0"
